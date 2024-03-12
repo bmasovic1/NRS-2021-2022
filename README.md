@@ -1,1 +1,1 @@
-# NRS-Tim3
+# [ETF UNSA] Napredni razvoj softvera 2021-22 
